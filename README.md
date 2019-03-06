@@ -20,3 +20,6 @@ https://drive.google.com/file/d/0B8gjQokMGa4nZWRvVXY5blQyaDg/view?usp=sharing
 
 ## 100% GAIA DR1 minimal
 https://drive.google.com/file/d/0B8gjQokMGa4nOF9YT2s5TE1aeW8/view?usp=sharing
+
+## Try GAIA DR2! (Kapteyn Astronomical Institute)
+https://www.astro.rug.nl/~gaia/
